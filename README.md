@@ -2,7 +2,7 @@
 
 Setup Wordpress on your local environment for fast and easy development.
 
-## Instalation
+## Installation
 
 1. Clone this repo and go into the wp-vagrant directory
 2. `vagrant up` will start up your server
